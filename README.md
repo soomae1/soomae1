@@ -1,6 +1,7 @@
 <div align= "center">
 
 <!--자기소개-->
+![https://github.com/soomae1/soomae1/blob/main/chat.svg](https://github.com/soomae1/soomae1/blob/main/chat.svg)
 
 ##
 

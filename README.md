@@ -1,11 +1,9 @@
 <div align= "center">
 
 <!--자기소개-->
-<div>
-    <h5>안녕하세요🖐️ 신입 백엔드 개발자 김수민입니다🙋‍♀️</h5>
-</div>
+![https://github.com/soomae1/soomae1/blob/main/chat.svg](https://github.com/soomae1/soomae1/blob/main/chat.svg)
 
-<br>
+##
 
 <div><a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/soomae1?pet-id=1" width="1000" height="120"/>

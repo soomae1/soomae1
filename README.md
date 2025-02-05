@@ -7,8 +7,8 @@
 
 <br>
 
-<div><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soomae1&utm_content=farm">
-<img src="https://render.gitanimals.org/farms/soomae1" width="1000" height="200"/>
+<div><a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/soomae1?pet-id=1" width="1000" height="120"/>
 </a></div>
 
 <br>

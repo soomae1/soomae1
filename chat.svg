@@ -1,4 +1,4 @@
-<svg width="550" height="400" viewBox="0 0 550 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="500" height="400" viewBox="0 0 550 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -226,9 +226,9 @@
   </g>
 
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="400" height="66.1302" rx="18.0355" />
-    <text x="10" y="25">안녕하세요🖐️</text>
-    <text x="10" y="25">신입 백엔드개발자를 꿈꾸는 김수민입니다🙋‍♀️</text>
+    <rect width="450" height="66.1302" rx="18.0355" />
+    <text x="13" y="25">안녕하세요🖐️</text>
+    <text x="13" y="50">끊임없이 배우는 신입 백엔드 개발자 김수민입니다🙋‍♀️</text>
   </g>
 
   <!-- typing 2 -->
@@ -250,8 +250,8 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 70)" class="msg-2">
-    <rect width="360" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">🏫 성균관대학교 응용AI융합학부에 재학중이고</text>
+    <rect width="425" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">저는 꼼꼼함과 집요함으로 문제를 해결합니다🔍</text>
   </g>
 
   <!-- typing 3 -->
@@ -274,9 +274,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="390" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><tspan class="emoji">☕️</tspan> 자바랑  <tspan class="emoji">🌿</tspan>스프링을 주로 사용하며 </text>
-    <text x="15" y="50">요즘은 파이썬과 알고리즘 풀이에 관심이 많습니다</text>
+    <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="13" y="25">새로운 도전에 겁먹지 않고!</text>
+    <text x="13" y="50">오히려 그 과정을 즐기며 성장하고 있습니다!🌍➡💻</text>
   </g>
 
   <!-- typing 4 -->
@@ -299,32 +299,15 @@
 
   
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="220" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a href="https://velog.io/@soyeon207">VELOG</a> 에도 놀러오세요</text>
+    <rect width="360" height="42" rx="18.0355" class="bubble" />
+    <text x="13" y="25">앞으로 저의 성장 스토리 지켜봐주십쇼!✨</text>
   </g>
 
-  <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-
-  </g>
-
+  
   <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
-    <rect width="330" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">앞으로 자주 보는 일이 있으면 좋겠습니다</text>
-    <text x="15" y="47">좋은 하루 보내세요  <tspan class="emoji">🍀</tspan></text>
+    <g transform="translate(10, 240)" class="msg-5">
+    <rect width="370" height="66.13" rx="18.0355" class="bubble" />
+    <text x="15" y="25">(버그와 친해지는..중입니다🚀 소근소근)</text>
+    <text x="15" y="50">아자아자 화이팅🍀</text>
   </g>
 </svg>

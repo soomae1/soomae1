@@ -226,9 +226,9 @@
   </g>
 
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="260" height="66.1302" rx="18.0355" />
-    <text x="15" y="27">안녕하세요</text>
-    <text x="15" y="50">백엔드 개발자 김.수.민 입니다🙋‍♀️</text>
+    <rect width="400" height="66.1302" rx="18.0355" />
+    <text x="10" y="25">안녕하세요🖐️</text>
+    <text x="10" y="25">신입 백엔드개발자를 꿈꾸는 김수민입니다🙋‍♀️</text>
   </g>
 
   <!-- typing 2 -->

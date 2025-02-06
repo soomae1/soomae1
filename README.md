@@ -35,9 +35,8 @@
 <h3>🧑‍💻Contact🧑‍💻</h3>
 <div><a href=mailto:pepsisoomae@gmail.com> 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pepsisoomae@gmail.com"></a>
-<a href=https://soomae1.github.io/development-blog/> 
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://soomae1.github.io/development-blog/"></a>
-</div>
+<!--<a href=https://soomae1.github.io/development-blog/> 
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://soomae1.github.io/development-blog/"></a>-->
 
 <br>   
   
